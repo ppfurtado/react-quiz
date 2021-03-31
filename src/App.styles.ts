@@ -34,7 +34,11 @@ export const Wrapper = styled.div`
     margin: 0;
   }
   h1 {
+<<<<<<< HEAD
     font-family: Fascinate Inline, Haettenschweiler, 'Arial Narrow Bold',
+=======
+    font-family: Fasc inate Inline, Haettenschweiler, 'Arial Narrow Bold',
+>>>>>>> 629689e995a4319b816d72e524e41fb085abfe5b
       sans-serif;
     background-image: linear-gradient(180deg, #fff, #87f1ff);
     background-size: 100%;
